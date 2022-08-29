@@ -13,7 +13,8 @@ CSVReaderpractice.py: The program builds a GUI for the user to select the CSV fi
                       labeled CSVPortScanHistory as an example to allow users to test the program.
                       
 The program is accompanied by 3 class files (CSVTrackByCount_Class.py, CSVTrackByDate_Class.py, CSVTrackByIP_Class.py)
-*Note you may need to install the breezypythyongui package for it to work properly.
+
+*Note you may need to install the breezypythyongui package for it to work properly.*
                        
 
 Luck Seven Game.py:   This program creates a game using 2 random dice. The user enters the amount they would like to wager (1-100).
