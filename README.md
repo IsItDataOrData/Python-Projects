@@ -8,7 +8,7 @@ This repository consists of different Python projects I have worked on to improv
 
 
 
-#CSVReaderpractice.py: The program builds a GUI for the user to select the CSV file they would like to gather info from. It then prints out 
+#CSVReaderpractice.py:The program builds a GUI for the user to select the CSV file they would like to gather info from. It then prints out 
                       the result in 3 different formats providing more specific information about the CSV file. The result of each value set 
                       is also saved to individual text files. I created this program to demonstrate my ability to take the information from 
                       certain files (such as log files) and extrapolate specific information and saves it to a file. I've attached a CSV file
@@ -16,11 +16,11 @@ This repository consists of different Python projects I have worked on to improv
                       
 The program is accompanied by 3 class files (CSVTrackByCount_Class.py, CSVTrackByDate_Class.py, CSVTrackByIP_Class.py)
 
-*Note you may need to install the breezypythyongui package for it to work properly.*
+*Note: You may need to install the breezypythyongui package for it to work properly.*
                        
 
 
 
-#Luck Seven Game.py:   This program creates a game using 2 random dice. The user enters the amount they would like to wager (1-100).
+#Luck Seven Game.py:  This program creates a game using 2 random dice. The user enters the amount they would like to wager (1-100).
                       The final result will tell the user how many times the dice were rolled and what the maximum amount they had 
                       during the duration of the game.
